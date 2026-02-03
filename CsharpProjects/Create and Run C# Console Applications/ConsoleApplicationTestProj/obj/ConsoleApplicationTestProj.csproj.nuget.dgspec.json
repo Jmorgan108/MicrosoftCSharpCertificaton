@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joshua Morgan\\Desktop\\Csharp Certification\\Stage 1\\CsharpProjects\\ConsoleApplicationTestProj\\ConsoleApplicationTestProj.csproj": {}
+    "C:\\Users\\Joshua Morgan\\Desktop\\Csharp Certification\\Stage 1\\CsharpProjects\\Create and Run C# Console Applications\\ConsoleApplicationTestProj\\ConsoleApplicationTestProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joshua Morgan\\Desktop\\Csharp Certification\\Stage 1\\CsharpProjects\\ConsoleApplicationTestProj\\ConsoleApplicationTestProj.csproj": {
+    "C:\\Users\\Joshua Morgan\\Desktop\\Csharp Certification\\Stage 1\\CsharpProjects\\Create and Run C# Console Applications\\ConsoleApplicationTestProj\\ConsoleApplicationTestProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joshua Morgan\\Desktop\\Csharp Certification\\Stage 1\\CsharpProjects\\ConsoleApplicationTestProj\\ConsoleApplicationTestProj.csproj",
+        "projectUniqueName": "C:\\Users\\Joshua Morgan\\Desktop\\Csharp Certification\\Stage 1\\CsharpProjects\\Create and Run C# Console Applications\\ConsoleApplicationTestProj\\ConsoleApplicationTestProj.csproj",
         "projectName": "ConsoleApplicationTestProj",
-        "projectPath": "C:\\Users\\Joshua Morgan\\Desktop\\Csharp Certification\\Stage 1\\CsharpProjects\\ConsoleApplicationTestProj\\ConsoleApplicationTestProj.csproj",
+        "projectPath": "C:\\Users\\Joshua Morgan\\Desktop\\Csharp Certification\\Stage 1\\CsharpProjects\\Create and Run C# Console Applications\\ConsoleApplicationTestProj\\ConsoleApplicationTestProj.csproj",
         "packagesPath": "C:\\Users\\Joshua Morgan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joshua Morgan\\Desktop\\Csharp Certification\\Stage 1\\CsharpProjects\\ConsoleApplicationTestProj\\obj\\",
+        "outputPath": "C:\\Users\\Joshua Morgan\\Desktop\\Csharp Certification\\Stage 1\\CsharpProjects\\Create and Run C# Console Applications\\ConsoleApplicationTestProj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
